@@ -3,6 +3,7 @@
 **Network**
 
 > A **system that exchanges information** between two or more entities
+
 ## 💛 What is a Node?
 **Node**
 
