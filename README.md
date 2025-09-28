@@ -4,3 +4,11 @@
    - 💛 What is a Network? 
    - 💛 What is a Node?
    - 💛 What is a Link?
+## [Protocol and Standard](https://github.com/eeeemune/Infra-Notes/blob/main/-/Protocol%20and%20Standard.md)
+- 💚 Protocol and Standard
+   - 💛 What is a Protocol?
+   - 💛 The Three Elements of Protocol
+      - 🤍 The Three Elements of Protocol
+      - 🤍 Syntax
+      - 🤍 Semantics
+      - 🤍 Timing
