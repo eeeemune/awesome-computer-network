@@ -1,5 +1,5 @@
 # 💚 What is a Computer Network?
-## 💛 What is a Network?
+## 💛 What is a Network? 
 **Network**
 
 > A **system that exchanges information** between two or more entities
