@@ -19,3 +19,15 @@
       - 🤍 What is SDO?
       - 🤍 IETF
       - 🤍 De Facto Standards
+## [Protocol Layering - Basics](https://github.com/eeeemune/Infra-Notes/blob/main/-/Protocol%20Layering%20-%20Basics.md)
+- 💚 Protocol Layering - Basics
+   - 💛 Background
+   - 💛 What is the Protocol Set?
+   - 💛 Basic Terms in Protocol Layering
+      - 🤍 Service
+      - 🤍 Protocol
+      - 🤍 Interface
+   - 💛 Protocol Graph
+      - 🤍 What is a Protocol Graph?
+   - 💛 Protocol Encapsulation
+      - 🤍 What is a Protocol Encapsulation?
