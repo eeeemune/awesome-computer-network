@@ -12,3 +12,10 @@
       - 🤍 Syntax
       - 🤍 Semantics
       - 🤍 Timing
+## [What is a Standard](https://github.com/eeeemune/Infra-Notes/blob/main/-/What%20is%20a%20Standard.md)
+- 💚 What is a Standard
+   - 💛 What is a Standard?
+   - 💛 Standard Development Organization(SDO)
+      - 🤍 What is SDO?
+      - 🤍 IETF
+      - 🤍 De Facto Standards
