@@ -103,7 +103,7 @@ jobs:
                 TRANSFORMED_CONTENT+="   - ${line#*## }\n"
               elif [[ $line =~ ^# ]]; then
                 # Level 1 heading -> bullet
-                TRANSFORMED_CONTENT+="# ${NEW_LINK}\n"
+                TRANSFORMED_CONTENT+="## ${NEW_LINK}\n"
                 TRANSFORMED_CONTENT+="- ${line#*# }\n"
               fi
             done < "$file"
