@@ -55,7 +55,7 @@ jobs:
           fi
 
           # Create new link
-          LINK_BASE="https://github.com/eeeemune/Infra-Notes/blob/main/-/"
+          LINK_BASE="https://github.com/eeeemune/awesome-computer-network/blob/main/-/"
           ENCODED_FILENAME=$(echo "$TITLE.md" | sed 's/ /%20/g')
           NEW_LINK="[$TITLE](https://github.com/eeeemune/Infra-Notes/blob/main/-/$ENCODED_FILENAME)"
 
